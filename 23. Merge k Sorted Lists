@@ -1,0 +1,22 @@
+ class Solution {
+public:
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        std::vector<int> v;
+        for(auto head : lists){
+            ListNode*temp=head;
+            while(temp!=NULL){
+                v.push_back(temp->val);
+                temp=temp->next;
+            }
+        }
+        if(v.empty()) return nullptr;
+        std::sort(v.begin(),v.end());
+        ListNode*head=new ListNode(v[0]);
+        ListNode*current=head;
+        for(int i=1;i<v.size();i++){
+            current->next=new ListNode(v[i]);
+            current=current->next;
+        }
+        return head;
+    }
+};23. Merge k Sorted Lists
