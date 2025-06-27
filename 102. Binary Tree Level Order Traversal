@@ -1,0 +1,48 @@
+class Solution {
+public:
+    int level(TreeNode*root){
+        if(root==NULL) return 0;
+        return 1+std::max(level(root->left),level(root->right));
+    }
+    void nthlevel(TreeNode*root,int curr,int tar,std::vector<int> &v){
+        if(root==NULL) return;
+        if(curr==tar){
+            v.push_back(root->val);
+            return;
+        }
+        nthlevel(root->left,curr+1,tar,v);
+        nthlevel(root->right,curr+1,tar,v);
+    }
+    // void  nthlevel(TreeNode*root,int curr,int key,std::vector<int> &v){
+    //     if(root==NULL) return ;
+    //     if(curr==key){
+    //         v.push_back(root->val);
+    //         return;
+    //     }
+    //     nthlevel(root->left,curr+1,key,v);
+    //     nthlevel(root->right,curr+1,key,v);
+    // }
+    void order(TreeNode*root,std::vector<std::vector<int>> &ans){
+        int n=level(root);
+        for(int i=1;i<=n;i++){
+            std::vector<int> v;
+            nthlevel(root,1,i,v);
+            ans.push_back(v);
+            
+        }
+    }
+    // void order(TreeNode*root,std::vector<vector<int>> &ans){
+    //     int n=level(root);
+    //     for(int i=1;i<=n;i++){
+    //         std::vector<int> v;
+    //         nthlevel(root,1,i,v);
+    //         ans.push_back(v);
+    //         std::cout<<std::endl;
+    //     }
+    // }
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        std::vector<vector<int>> ans;
+        order(root,ans);
+        return ans;
+    }
+};
