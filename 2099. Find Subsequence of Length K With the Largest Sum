@@ -1,0 +1,31 @@
+class Solution {
+public:
+    vector<int> maxSubsequence(vector<int>& nums, int k) {
+        std::vector<int> temp=nums;
+        int u=k;
+     std::sort(temp.begin(),temp.end());
+     std::vector<int> v;
+     int n=nums.size();
+        int i=0;
+        while(k>0){
+            v.push_back(temp[n-1-i]);
+            k--;
+            i++;
+        }
+        std::vector<int> v1;
+    
+        for(int i=0;i<nums.size();i++){
+           for(int j=0;j<v.size();j++){
+            if(v[j]==nums[i]){
+                v1.push_back(nums[i]);
+                v.erase(v.begin()+j);
+                break;
+            }
+           }
+           if(v1.size()==u) break;
+        }
+        
+    return v1;
+
+    }
+};
