@@ -1,0 +1,17 @@
+class Solution {
+public:
+    void preorder(TreeNode*root,int &sum){
+        if(root==NULL) return;
+        
+        if( root->left!=NULL && root->left->left==NULL && root->left->right==NULL){
+            sum+=root->left->val;
+        }
+        preorder(root->left,sum);
+        preorder(root->right,sum);
+    }
+    int sumOfLeftLeaves(TreeNode* root) {
+        int sum=0;
+        preorder(root,sum);
+        return sum;
+    }
+};
