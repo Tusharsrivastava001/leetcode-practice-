@@ -1,0 +1,26 @@
+//Brutz force apporach 
+class Solution {
+public:
+    bool checkleft(TreeNode*root,int val){
+        if(root==NULL) return true;
+        if(root->val>=val) return false;
+        return checkleft(root->left,val) && checkleft(root->right,val);
+    }
+    bool checkright(TreeNode*root,int val){
+        if(root==NULL) return true;
+        if(root->val<=val) return false;
+        return checkright(root->left,val) && checkright(root->right,val);
+    }
+    bool isValidBST(TreeNode* root) {
+        if(root==NULL) return true;
+        if(checkleft(root->left,root->val)==false){
+            return false;
+        }
+        if(checkright(root->right,root->val)==false){
+            return false;
+        }
+        return isValidBST(root->left) && isValidBST(root->right); 
+        //every node ke liye check karega ki BST properithy hai ki nahi 
+
+    }
+};
