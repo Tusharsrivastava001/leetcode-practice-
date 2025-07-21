@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int subarraySum(vector<int>& nums, int k) {
+        int n=nums.size();
+      std::vector<int> pre(n,0);
+      pre[0]=nums[0];
+      for(int i=1;i<nums.size();i++){
+        pre[i]=nums[i]+pre[i-1];
+      }
+      std::unordered_map<int,int> map;
+      int count=0;
+      for(int ele : pre){
+        if(ele==k) count++;
+
+        
+            if(map.find(ele-k)!=map.end()){
+                count+=map[ele-k];
+            }
+        map[ele]++;
+        
+      }
+      return count;
+    
+    }
+};
