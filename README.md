@@ -35,4 +35,20 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
