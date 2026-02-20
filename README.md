@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -89,5 +90,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
