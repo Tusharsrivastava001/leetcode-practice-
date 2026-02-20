@@ -72,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -92,4 +93,8 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
