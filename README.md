@@ -40,6 +40,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,4 +105,12 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
