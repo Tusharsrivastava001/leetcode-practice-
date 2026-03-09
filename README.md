@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0035-search-insert-position) |
+| [0485-max-consecutive-ones](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0485-max-consecutive-ones) |
 ## Greedy
 |  |
 | ------- |
