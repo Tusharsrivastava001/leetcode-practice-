@@ -1,40 +1,21 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        //here we will be usin the slidin window technique man 
-        // int n=s.size();
-        std::vector<int> freq(256,-1);
+        
+        int n=s.length();
+        int l=0;
+        int r=0;
         int maxl=0;
-        int n=s.size();
-        int left=0;
-        for(int right=0;right<n;right++){
-            if(freq[s[right]]>=left){
-                //here we just haev to update the left as this char is already seen in window 
-                left=freq[s[right]]+1;
+        unordered_map<char,int> map;
+        while(r<n){
+            if(map.find(s[r])!=map.end()){
+                l=max(l,map[s[r]]+1);
             }
-            freq[s[right]]=right;
-            maxl=max(maxl,right-left+1);
+            int len=r-l+1;
+            maxl=max(maxl,len);
+            map[s[r]]=r;
+            r++;
         }
         return maxl;
-        // int maxl=0;
-        // for(int i=0;i<n;i++){
-        //     for(int j=i;j<n;j++){
-        //         string si="";
-        //         std::vector<int> freq(256,0);
-        //         bool valid=true;
-        //         for(int k=i;k<=j;k++){
-        //             if(freq[s[k]]>0){
-        //                 valid=false;
-        //                 break;
-        //             }
-        //             freq[s[k]]++;
-        //             si+=s[k];
-        //         }
-        //         if(valid){
-        //             maxl=std::max(maxl,j-i+1);
-        //         }
-        //     }
-        // }
-        // return maxl;
     }
 };
