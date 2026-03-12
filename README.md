@@ -78,6 +78,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0222-count-complete-tree-nodes) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -112,9 +114,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
