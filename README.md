@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
