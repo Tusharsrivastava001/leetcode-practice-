@@ -44,6 +44,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2833-furthest-point-from-origin) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3612-process-string-with-special-operations-i) |
 ## Tree
 |  |
@@ -102,6 +103,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3612-process-string-with-special-operations-i) |
+## Sorting
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->
