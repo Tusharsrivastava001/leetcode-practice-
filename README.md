@@ -44,6 +44,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2833-furthest-point-from-origin) |
+| [3612-process-string-with-special-operations-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3612-process-string-with-special-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -146,4 +147,8 @@
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [3870-count-commas-in-range](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3870-count-commas-in-range) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
