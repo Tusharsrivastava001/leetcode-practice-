@@ -46,6 +46,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3614-process-string-with-special-operations-ii) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sorting
 |  |
 | ------- |
