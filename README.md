@@ -47,6 +47,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3614-process-string-with-special-operations-ii) |
+| [3894-traffic-signal-color](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3894-traffic-signal-color) |
 ## Tree
 |  |
 | ------- |
@@ -151,11 +152,13 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3870-count-commas-in-range](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3614-process-string-with-special-operations-ii) |
+| [3894-traffic-signal-color](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
 | ------- |
