@@ -163,4 +163,8 @@
 |  |
 | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
