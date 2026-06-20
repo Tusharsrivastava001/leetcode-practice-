@@ -121,6 +121,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
 ## Greedy
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
 | [3870-count-commas-in-range](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -164,6 +166,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
 |  |
