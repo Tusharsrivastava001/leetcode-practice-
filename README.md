@@ -154,6 +154,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1833-maximum-ice-cream-bars) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
