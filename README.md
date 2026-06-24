@@ -114,6 +114,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Array
 |  |
@@ -122,6 +123,7 @@
 | [0015-3sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0485-max-consecutive-ones) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
