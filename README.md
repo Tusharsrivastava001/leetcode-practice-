@@ -186,6 +186,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Counting Sort
 |  |
@@ -196,4 +197,8 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3699-number-of-zigzag-arrays-i) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
