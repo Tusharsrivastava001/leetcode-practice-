@@ -109,6 +109,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -208,4 +212,16 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
