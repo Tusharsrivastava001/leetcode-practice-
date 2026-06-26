@@ -1,24 +1,25 @@
 class Solution {
 public:
     long long countMajoritySubarrays(vector<int>& nums, int target) {
-    int size = nums.size(), pref = size;
+        int n = nums.size();
 
-        vector<int> freq(2 * size + 1);
-        freq[size] = 1;
+        int pref = n;                     // shifted prefix index
+        vector<int> freq(2 * n + 1, 0);
+        freq[pref] = 1;
 
-        long long less = 0, ans = 0;
+        long long less = 0;
+        long long ans = 0;
 
-        for (int num : nums) {
-            if (num == target)
+        for (int x : nums) {
+            if (x == target)
                 less += freq[pref++];
             else
                 less -= freq[--pref];
 
-            ++freq[pref];
             ans += less;
+            freq[pref]++;
         }
 
         return ans;
-
     }
 };
