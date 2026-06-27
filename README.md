@@ -110,6 +110,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -141,6 +142,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -232,4 +234,8 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
