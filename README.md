@@ -198,6 +198,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
@@ -232,11 +233,13 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,4 +259,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
