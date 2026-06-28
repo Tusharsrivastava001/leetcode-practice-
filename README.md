@@ -37,6 +37,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -122,6 +123,7 @@
 | [0015-3sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0283-move-zeroes) |
