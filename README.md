@@ -110,6 +110,7 @@
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -144,6 +145,7 @@
 | [0189-rotate-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0485-max-consecutive-ones) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -216,6 +218,7 @@
 | [0015-3sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
