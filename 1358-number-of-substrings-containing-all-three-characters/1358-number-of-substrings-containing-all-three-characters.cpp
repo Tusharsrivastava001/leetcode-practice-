@@ -6,7 +6,6 @@ public:
         int ans=0;
         vector<int> freq(3,0);
         for(int right=0;right<n;right++){
-
             freq[s[right]-'a']++;
             //here we wil check that 
             while(freq[0]>0 && freq[1]>0 && freq[2]>0){
