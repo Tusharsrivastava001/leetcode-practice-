@@ -76,6 +76,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -271,4 +274,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
