@@ -96,6 +96,7 @@
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -252,6 +254,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
+| [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Recursion
 |  |
@@ -290,6 +293,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -299,8 +303,14 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
