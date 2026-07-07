@@ -163,6 +163,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [1480-running-sum-of-1d-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1732-find-the-highest-altitude) |
@@ -238,6 +239,7 @@
 | [0088-merge-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1288-remove-covered-intervals](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
