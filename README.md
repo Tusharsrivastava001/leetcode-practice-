@@ -221,6 +221,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3894-traffic-signal-color) |
 ## Simulation
