@@ -15,6 +15,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0232-implement-queue-using-stacks) |
@@ -118,6 +119,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0424-longest-repeating-character-replacement) |
@@ -255,6 +257,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0876-middle-of-the-linked-list) |
@@ -331,4 +334,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
