@@ -20,6 +20,7 @@
 | [0155-min-stack](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -35,6 +36,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0622-design-circular-queue) |
 ## String
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0283-move-zeroes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0622-design-circular-queue) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
@@ -266,6 +269,7 @@
 | [0234-palindrome-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0876-middle-of-the-linked-list) |
 ## Counting Sort
 |  |
