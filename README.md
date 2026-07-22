@@ -176,6 +176,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
