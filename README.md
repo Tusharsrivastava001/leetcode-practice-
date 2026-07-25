@@ -88,6 +88,7 @@
 | [0226-invert-binary-tree](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -182,6 +183,7 @@
 | [0733-flood-fill](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0733-flood-fill) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1288-remove-covered-intervals) |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
