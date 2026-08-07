@@ -80,6 +80,7 @@
 | [0733-flood-fill](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0938-range-sum-of-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,6 +359,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
