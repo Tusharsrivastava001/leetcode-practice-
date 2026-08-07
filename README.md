@@ -256,6 +256,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Memoization
 |  |
 | ------- |
