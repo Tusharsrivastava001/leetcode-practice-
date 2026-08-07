@@ -44,6 +44,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0151-reverse-words-in-a-string) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0146-lru-cache) |
@@ -255,6 +257,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
