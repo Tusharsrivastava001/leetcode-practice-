@@ -140,6 +140,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0146-lru-cache) |
@@ -184,6 +185,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0189-rotate-array) |
@@ -370,6 +372,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0037-sudoku-solver) |
 | [0733-flood-fill](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1301-number-of-paths-with-max-score) |
@@ -398,6 +401,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0037-sudoku-solver) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -419,4 +423,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0005-longest-palindromic-substring) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
