@@ -46,6 +46,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0387-first-unique-character-in-a-string) |
@@ -138,6 +139,7 @@
 | [0001-two-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0146-lru-cache) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
