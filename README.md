@@ -202,6 +202,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1301-number-of-paths-with-max-score) |
@@ -254,6 +255,7 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1732-find-the-highest-altitude) |
@@ -268,6 +270,7 @@
 | [0189-rotate-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1406-stone-game-iii) |
@@ -323,6 +326,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3620-network-recovery-pathways) |
@@ -413,14 +417,17 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1406-stone-game-iii) |
 ## Manacher
 |  |
