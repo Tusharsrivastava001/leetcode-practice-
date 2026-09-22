@@ -158,6 +158,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,6 +183,7 @@
 | [0283-move-zeroes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0876-middle-of-the-linked-list) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Array
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
