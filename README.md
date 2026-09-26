@@ -183,6 +183,7 @@
 | [0283-move-zeroes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0905-sort-array-by-parity) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Array
 |  |
@@ -203,6 +204,7 @@
 | [0622-design-circular-queue](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0733-flood-fill) |
+| [0905-sort-array-by-parity](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0994-rotting-oranges) |
@@ -302,6 +304,7 @@
 | [0088-merge-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1840-maximum-building-height) |
