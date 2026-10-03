@@ -188,6 +188,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Array
 |  |
@@ -228,6 +229,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -304,6 +306,7 @@
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2460-apply-operations-to-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3894-traffic-signal-color](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3894-traffic-signal-color) |
