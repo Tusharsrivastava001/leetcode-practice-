@@ -1,18 +1,19 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        //yaha par queue banege simplivy quene front k element ko back par add kardengeg k times
-        Deque<Integer> q=new ArrayDeque<>();
-        for(int num : nums){
-            q.add(num);
-        }
-        k = k % nums.length;
-        while(k>0){
-            int x=q.removeLast();
-            q.addFirst(x);
-            k--;
-        }
-        for(int i=0;i<nums.length;i++){
-            nums[i]=q.removeFirst();
+       int n=nums.length;
+       k=k%nums.length;
+       reverse(nums,0,n-1);
+       //then we have to reverse the first half
+       reverse(nums,0,k-1);
+       reverse(nums,k,n-1);
+    }
+    public static void reverse(int[] arr,int left,int right){
+        while(left<right){
+            int temp=arr[left];
+            arr[left]=arr[right];
+            arr[right]=temp;
+            left++;
+            right--;
         }
     }
 }
