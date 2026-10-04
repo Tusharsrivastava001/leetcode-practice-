@@ -188,6 +188,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Array
@@ -229,6 +230,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/2812-find-the-safest-path-in-a-grid) |
