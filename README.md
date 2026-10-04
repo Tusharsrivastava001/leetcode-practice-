@@ -170,6 +170,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0027-remove-element) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
