@@ -478,4 +478,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
