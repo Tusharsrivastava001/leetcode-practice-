@@ -44,6 +44,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0020-valid-parentheses) |
@@ -355,6 +356,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
@@ -365,6 +367,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0025-reverse-nodes-in-k-group) |
