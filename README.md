@@ -204,6 +204,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0189-rotate-array) |
@@ -360,6 +361,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
@@ -380,6 +382,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
