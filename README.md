@@ -153,6 +153,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -213,6 +214,7 @@
 | [0283-move-zeroes](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0733-flood-fill) |
@@ -282,6 +284,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Tusharsrivastava001/leetcode-practice-/tree/master/1140-stone-game-ii) |
